@@ -4,11 +4,11 @@ Profile repo: `endrisusanto/endrisusanto`
 
 ## GitHub Realtime
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=endrisusanto&show_icons=true&theme=transparent&hide_border=true)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=endrisusanto&show_icons=true&theme=transparent&hide_border=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endrisusanto&layout=compact&theme=transparent&hide_border=true)
+![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=endrisusanto&layout=compact&theme=transparent&hide_border=true)
 
-![GitHub streak](https://streak-stats.demolab.com?user=endrisusanto&theme=transparent&hide_border=true)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=endrisusanto&theme=transparent&hide_border=true)
 
 ## Activity
 
