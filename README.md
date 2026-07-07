@@ -8,8 +8,6 @@ Profile repo: `endrisusanto/endrisusanto`
 
 ![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=endrisusanto&layout=compact&theme=transparent&hide_border=true)
 
-![WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=endrisusanto&layout=compact&theme=transparent&hide_border=true)
-
 ![GitHub streak](https://github-readme-streak-stats-eight.vercel.app?user=endrisusanto&theme=transparent&hide_border=true)
 
 ## Activity
